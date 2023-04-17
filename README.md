@@ -1,2 +1,3 @@
 # DecodableExtensions
-Custom library for system parcing of data.
+
+A description of this package.
